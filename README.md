@@ -1,16 +1,11 @@
-# chat_app
+# Build Chat Application using Flutter & Firebase
+Source Code - Enjoy !
 
-A new Flutter project.
+# Social Media
+GitHub: https://github.com/irvan99x
 
-## Getting Started
+Instagram: https://www.instagram.com/irvannih_/
 
-This project is a starting point for a Flutter application.
+LinkedIn:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Frame 21](https://user-images.githubusercontent.com/64585083/147944489-a99c130b-e7d4-4f4a-b3f4-0ee65801c068.jpg)
